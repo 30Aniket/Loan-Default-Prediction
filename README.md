@@ -5,11 +5,9 @@ The aim of this project was to build a machine learning model to predict whether
 - Random Forest
 
 This repository contains the following files:
-1. Data
-   - Loan  
-The excel file of the Lending Club dataset used in the project.  
+1. Data  
    - LCDataDictionary  
-Excel file of descriptions of all the columns in the dataset.
+Excel file of descriptions of all the columns in the Lending Club dataset.
 2. ProjectBook  
 The project's jupyter notebook.
 3. README
