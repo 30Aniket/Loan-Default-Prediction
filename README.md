@@ -11,3 +11,6 @@ Excel file of descriptions of all the columns in the Lending Club dataset.
 2. ProjectBook  
 The project's jupyter notebook.
 3. README
+
+Since the dataset is very large to be uploaded to github, so here's the link for the Lending Club dataset:  
+[I'm an inline-style link](https://www.kaggle.com/wendykan/lending-club-loan-data?select=loan.csv)
