@@ -1,5 +1,5 @@
 # Loan-Default-Prediction
-Please cite the following paper if you find this code useful in your research:  
+**NOTE:- Please cite the following paper if you find this code useful in your research:**  
 *https://doi.org/10.1088/1757-899X/1022/1/012042*
 
 The aim of this project was to build a machine learning model to predict whether an individual should be given a loan by assessing certain attributes.   
